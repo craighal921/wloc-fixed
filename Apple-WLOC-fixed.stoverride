@@ -1,4 +1,3 @@
-id="q3a0nf"
 name: Apple WLOC 定位修改（固定坐标）
 desc: "仅使用本地 wloc.js；修改下方 argument 即可改变固定坐标和随机扰动半径。关闭此覆写即可恢复 Apple 默认定位。"
 author: craighal921
